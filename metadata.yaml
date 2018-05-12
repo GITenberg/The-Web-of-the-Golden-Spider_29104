@@ -27,6 +27,8 @@ creator:
     gutenberg_agent_id: '9294'
     url: http://www.gutenberg.org/2009/agents/9294
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29104#The-Web-of-the-Golden-Spider
 gutenberg_issued: '2009-06-12'
 gutenberg_type: Text
 identifiers:
